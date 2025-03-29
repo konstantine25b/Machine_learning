@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and database
+*.log
+db.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
