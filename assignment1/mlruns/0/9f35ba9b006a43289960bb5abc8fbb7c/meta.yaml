@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/konstantine25b/Desktop/uni%20machine%20learning/assignment1/mlruns/0/9f35ba9b006a43289960bb5abc8fbb7c/artifacts
+end_time: 1744542396855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f35ba9b006a43289960bb5abc8fbb7c
+run_name: brawny-toad-21
+run_uuid: 9f35ba9b006a43289960bb5abc8fbb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744542394852
+status: 3
+tags: []
+user_id: konstantine25b
